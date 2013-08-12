@@ -1,0 +1,14 @@
+{
+  "name": "recall-server",
+  "description": "a simple recall/concentration game server",
+  "version": "0.1.0",
+  "author": "Fraser Tweedale <frase@frase.id.au>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frasertweedale/recall-server.git"
+  },
+  "dependencies": {
+    "underscore": ""
+  }
+}
